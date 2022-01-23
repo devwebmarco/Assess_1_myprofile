@@ -1,4 +1,4 @@
-/* michael hisler css */
+/* marc giannni css */
 
 body, html {
 	padding: 0;
@@ -91,8 +91,6 @@ h2 {
 }
 }
 
-
-
 /*mobile first*/
 @media (max-width:768px)
 {    /*responsive menu*/
@@ -110,13 +108,13 @@ h2 {
 	}
 }
 	
-/*goals*/
+/*personal information*/
 section.sec-1 {
 	text-align: center;
 	color: #3680ad;
 }
 
-#goals {	 
+#personalinformation {	 
     padding-top: 50px;
 	padding-bottom: 100px;		
 	}
@@ -175,14 +173,14 @@ video {
 }
 }
 
-/*footer - social media icons*/
+/*profile*/
 section.sec-7 {
 	padding-top: 50px;
 	text-align: center;
 	background-color: ;
 	color: black;
 }
-/*footer - contact*/
+/*presentation*/
 section.sec-8 {
     padding-top: 50px;
     text-align: center;	
