@@ -1,4 +1,4 @@
-/* michael hisler css */
+/* marc giannni css */
 
 body, html {
 	padding: 0;
@@ -63,7 +63,7 @@ h2 {
   color: hsl(0, 90%, 50%); /*text on image*/
   }
  
- /*image*/
+ /*image
 .responsive {
   width: 70%;
   height: auto;
@@ -71,7 +71,7 @@ h2 {
   margin-left: auto;
   margin-right: auto;
 }
-
+*/
 
 /*mobile first*/
 @media (max-width:768px)
@@ -91,8 +91,6 @@ h2 {
 }
 }
 
-
-
 /*mobile first*/
 @media (max-width:768px)
 {    /*responsive menu*/
@@ -105,18 +103,18 @@ h2 {
 		top: 0;
 		left: 0;
 		padding: 0;
-        margin: 0;	
+    margin: 0;	
 		font-size: 12px;
 	}
 }
 	
-/*goals*/
+/*personal information*/
 section.sec-1 {
 	text-align: center;
 	color: #3680ad;
 }
 
-#goals {	 
+#personalinformation {	 
     padding-top: 50px;
 	padding-bottom: 100px;		
 	}
@@ -140,29 +138,29 @@ section.sec-3 {
 	margin-bottom: 100px;	
 }
 
-/*workexperience*/
+/*ideal job*/
 section.sec-4 {
-	text-align: center;
+	text-align: left;
 	color: #3680ad;
 }
 
-#workexperience {
+#personalinformation {
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
 
-/*standupcomedy*/
+/*project ideas*/
 section.sec-5 {
 	text-align: center;
 	color: #3680ad;
 }
 
-#standupcomedy {
+#projectideas {
 	padding-top: 50px;
 }
 
 
-/*video*/
+/*presentation*/
 section.sec-6 {     
    text-align: center;
    padding-bottom: 100px;
@@ -175,19 +173,19 @@ video {
 }
 }
 
-/*footer - social media icons*/
+/**/
 section.sec-7 {
 	padding-top: 50px;
 	text-align: center;
-	background-color: black;
-	color: white;
+	background-color: ;
+	color: black;
 }
-/*footer - contact*/
+/**/
 section.sec-8 {
     padding-top: 50px;
     text-align: center;	
-	background-color: black;
-	color: white;
+	background-color: ;
+	color: black;
 	min-height: 50vh;
 }
 
